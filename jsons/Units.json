@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Wayfarer",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 20,
+		"range": 1,
+		"cost": 25,
+		"uniques": [
+			"Unbuildable",
+			"Invisible to non-adjacent units",
+			"[+1] Sight",
+			"Can upgrade to [Gatling Gun]"
+		],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Suicider",
+		"unitType": "Armored",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 32,
+		"rangedStrength": 32,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"uniques": [
+			"[+400]% Strength <vs cities> <when attacking>",
+			"Can only attack [City] units",
+			"Self-destructs when attacking",
+			"Earn [50]% of the damage done to [City] units as [Gold]"
+		],
+		"attackSound": "shot"
+	}
+]

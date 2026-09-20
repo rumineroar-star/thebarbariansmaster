@@ -1,0 +1,286 @@
+[
+  {
+    "name": "discover cultural sign",
+    "notification": "We have discovered cultural signs in the ruins! (+20 culture)",
+    "uniques": ["Gain [20] [Culture]"],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "discover cultural artifacts",
+    "notification": "We have discovered cultural artifacts in the ruins! (+50 culture)",
+    "uniques": ["Gain [50] [Culture]"],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "shared cultural inspiration",
+    "notification": "Captured villagers share the secrets of their well-ordered society! (+[cultureAmount] culture)",
+    "uniques": ["Gain [80]-[120] [Culture]"],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "adopt foreign policy",
+    "notification": "We have discovered a scripture of policy idea, we can now try adopting it!",
+    "uniques": ["Free Social Policy"],
+    "color": "#cf8ff7"
+  },
+
+  {
+    "name": "discover a portion of technology",
+    "notification": "We have discovered a portion of advanced technology! (+50 science)",
+    "uniques": ["Gain [50] [Science]"],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "discover a research note",
+    "notification": "We have discovered an Inventor's research note! (+[scienceAmount] science)",
+    "uniques": ["Gain [80]-[120] [Science]"],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "stolen technology",
+    "notification": "We have successfully taken control of the stolen technology! (+[scienceAmount] science)",
+    "uniques": ["Gain [140]-[180] [Science]"],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "discover a lost technology",
+    "notification": "We have discovered the lost technology of [techName] in the ruins!",
+    "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
+    "color": "#7f7fff"
+  },
+
+  {
+    "name": "small money",
+    "notification": "Small amount of money buried underground! (+50 gold)",
+    "uniques": ["Gain [50] [Gold]"],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "a pocket of gold",
+    "notification": "A pocket of gold buried underground! (+100 gold)",
+    "uniques": ["Gain [100] [Gold]"],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "a stash of gold",
+    "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
+    "uniques": ["Gain [175]-[250] [Gold]"],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "hit a jackpot",
+    "notification": "Jackpot! (+1000 gold)",
+    "uniques": ["Gain [1000] [Gold]"],
+    "color": "#ffeb7f"
+  },
+
+  {
+    "name": "discover holy symbols",
+    "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain enough Faith for a Pantheon",
+      "Only available <before founding a Pantheon>"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "an ancient prophecy",
+    "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain enough Faith for [33]% of a Great Prophet",
+      "Unavailable <after generating a Great Prophet>",
+      "Only available <after founding a Pantheon>"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "a praying priest",
+    "notification": "A dying priest prays for you! (+[faithAmount] faith)",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain [100]-[250] [Faith]",
+      "Only available <after founding a Pantheon>"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "a wandering oracle",
+    "notification": "An oracle foresees your future! (+[faithAmount] faith)",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain [250]-[350] [Faith]",
+      "Only available <after founding a Pantheon>"
+    ],
+    "color": "#CDDDF4"
+  },
+
+  {
+    "name": "survivors (adds population to a city)",
+    "notification": "We have found survivors in the ruins! Population added to [cityName].",
+    "uniques": ["[+1] population in a random city"],
+    "color": "#81c784"
+  },
+  {
+    "name": "accepted immigrants (adds 3 population to a city)",
+    "notification": "A family of immigrants saved in the ruins! Population added to [cityName].",
+    "uniques": ["[+3] population [in capital]"],
+    "color": "#81c784"
+  },
+
+  {
+    "name": "squatters willing to work for you",
+    "notification": "A [Worker] has joined us!",
+    "uniques": ["Free [Worker] found in the ruins"]
+  },
+  {
+    "name": "squatters wishing to settle under your rule",
+    "notification": "A [Settler] has joined us!",
+    "uniques": ["Free [Settler] found in the ruins"]
+  },
+
+  {
+    "name": "free a general",
+    "notification": "Accidentally, we save a former general!",
+    "uniques": ["Free [Great General] found in the ruins"],
+    "color": "#e89220"
+  },
+  {
+    "name": "save a merchant",
+    "notification": "We have succesfully saved a [Great Merchant]!",
+    "uniques": ["Free [Great Merchant] found in the ruins"],
+    "color": "#e89220"
+  },
+
+  {
+    "name": "your exploring unit receives training",
+    "notification": "An ancient tribe trained us in their ways of combat!",
+    "uniques": ["[This Unit] gains [15] XP"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "hell training",
+    "notification": "Your men experience a hellish training!",
+    "uniques": ["[This Unit] gains [30] XP"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "explorer equipment",
+    "notification": "Our unit finds equipment hidden in the ruins!",
+    "uniques": ["[This Unit] gains the [Explorer] promotion"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "advanced weaponry for your explorer",
+    "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+    "uniques": ["[This Unit] upgrades for free including special upgrades"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "levied spearman",
+    "notification": "A young [Spearman] has joined us!",
+    "uniques": ["Free [Spearman] appears"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "levied wayfarer",
+    "notification": "A [Wayfarer] has joined us!",
+    "uniques": ["Free [Wayfarer] appears"],
+    "color": "#20afe8"
+  },
+
+  {
+    "name": "reveal nearby Barbarian camps",
+    "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
+    "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+  },
+  {
+    "name": "reveal nearby Bonus resource",
+    "notification": "You found notes of crop yields area!",
+    "uniques": ["Reveal up to [All] [Bonus resource] within a [10] tile radius"]
+  },
+  {
+    "name": "reveal nearby Luxury resource",
+    "notification": "You found notes of rare and valueable resources!",
+    "uniques": ["Reveal up to [All] [Luxury resource] within a [7] tile radius"]
+  },
+  {
+    "name": "find a crudely-drawn map",
+    "notification": "We have found a crudely-drawn map in the ruins!",
+    "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
+  },
+  {
+    "name": "find a well-drawn map",
+    "notification": "We have found a well-drawn map in the ruins!",
+    "uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"]
+  },
+ {
+    "name": "ULTIMATE culture cache",
+    "notification": "We uncover a legendary cultural cache in the ruins! (+[cultureAmount] Culture)",
+    "uniques": ["Gain [150]-[600] [Culture]"],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "ULTIMATE scientific breakthrough",
+    "notification": "We recover lost schematics and research logs! (+[scienceAmount] Science)",
+    "uniques": ["Gain [150]-[600] [Science]"],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "ULTIMATE treasure hoard",
+    "notification": "A mythical treasure hoard is found in the ruins! (+[goldAmount] Gold)",
+    "uniques": ["Gain [300]-[1500] [Gold]"],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "ULTIMATE sacred revelation",
+    "notification": "A sacred revelation reshapes our beliefs! (+[faithAmount] Faith)",
+    "uniques": [
+      "Only available <when religion is enabled>",
+      "Gain [200]-[1200] [Faith]"
+    ],
+    "color": "#CDDDF4"
+  },
+  {
+    "name": "ULTIMATE resettlement wave (adds population)",
+    "notification": "A massive group of survivors joins our empire! Population added to [cityName].",
+    "uniques": ["[+7] population in a random city"],
+    "color": "#81c784"
+  },
+  {
+    "name": "ULTIMATE settlers & workforce join",
+    "notification": "A full expedition joins us from the ruins!",
+    "uniques": [
+      "Free [Settler] found in the ruins",
+      "Free [Worker] found in the ruins"
+    ]
+  },
+  {
+    "name": "ULTIMATE veteran training",
+    "notification": "Veteran instructors drill our unit to elite standards!",
+    "uniques": ["[This Unit] gains [100] XP"],
+    "color": "#20afe8"
+  },
+  {
+    "name": "ULTIMATE strategic maps",
+    "notification": "We recover complete regional charts and enemy traces!",
+    "uniques": [
+      "Reveal up to [All] [Barbarian encampment] within a [20] tile radius",
+      "Reveal up to [All] [Luxury resource] within a [15] tile radius",
+      "Reveal up to [All] [Bonus resource] within a [20] tile radius"
+    ]
+  },
+  {
+    "name": "ULTIMATE golden age trigger",
+    "notification": "A legendary find sparks an empire-wide celebration!",
+    "uniques": ["Empire enters golden age"],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "into era of greatness",
+    "notification": "Solving a potential problem bring us into an era of greatness!",
+    "uniques": ["Empire enters golden age"],
+    "color": "#cf8ff7"
+  }
+]

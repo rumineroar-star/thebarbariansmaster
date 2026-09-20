@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Quick",
+        "modifier": 0.67,
+        "barbarianModifier": 0.5
+    },
+    {
+        "name": "Standard",
+        "modifier": 1.0,
+        "barbarianModifier": 0.5
+    },
+    {
+        "name": "Epic",
+        "modifier": 1.5,
+        "barbarianModifier": 0.5
+    },
+    {
+        "name": "Marathon",
+        "modifier": 3.0,
+        "barbarianModifier": 0.5
+    },
+    {
+        "name": "Ultra Marathon",
+        "modifier": 6.0,
+        "barbarianModifier": 0.5
+    }
+]

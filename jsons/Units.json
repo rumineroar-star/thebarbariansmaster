@@ -32,9 +32,9 @@
 		"unitType": "Armored",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 25,
-		"rangedStrength": 5,
-		"range": 1,
+		"strength": 12,
+		"rangedStrength": 12,
+		"range": 2,
 		"cost": 150,
 		"uniques": [
 			"[+600]% Strength <vs cities> <when attacking>",

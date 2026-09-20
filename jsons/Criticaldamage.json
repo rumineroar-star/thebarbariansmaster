@@ -1,7 +1,7 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "[+75]% Strength <for [Human player] units> <with [70]% chance> <when above [30] HP> <when attacking>",
+        "[+75]% Strength <for [Human player] units> <with [90]% chance> <when above [30] HP> <when attacking>",
         "[+75]% Strength <for [Human player] units> <with [80]% chance> <when below [10] HP> <when attacking>"
     ]
 }

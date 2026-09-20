@@ -12,8 +12,8 @@
 			"[+66]% Strength <for [All] units>",
 			"[Scout] units gain the [Seek and Capture] promotion",
 			"[{Military} {Land}] units gain the [Barbarian Strength] promotion",
-			"[+30]% Strength <within [2] tiles of a [Barbarian encampment]>",
-			"[+30]% Strength <in [Barbarian encampment] tiles> <for [Melee] units>"
+			"[+50]% Strength <within [2] tiles of a [Barbarian encampment]>",
+			"[+60]% Strength <in [Barbarian encampment] tiles> <for [Melee] units>"
 		]
 	}
 ]

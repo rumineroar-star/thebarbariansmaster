@@ -3,7 +3,7 @@
 		"name": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 7,
+		"strength": 15,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects"],

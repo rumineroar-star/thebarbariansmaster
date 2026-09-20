@@ -128,18 +128,6 @@
     "uniques": ["[+3] population [in capital]"],
     "color": "#81c784"
   },
-
-  {
-    "name": "squatters willing to work for you",
-    "notification": "A [Worker] has joined us!",
-    "uniques": ["Free [Worker] found in the ruins"]
-  },
-  {
-    "name": "squatters wishing to settle under your rule",
-    "notification": "A [Settler] has joined us!",
-    "uniques": ["Free [Settler] found in the ruins"]
-  },
-
   {
     "name": "free a general",
     "notification": "Accidentally, we save a former general!",

@@ -36,6 +36,7 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 150,
+  "requiredTech": "Gunpowder",
 		"uniques": [
 			"[+600]% Strength <vs cities> <when attacking>",
 			"Can only attack [City] units",
